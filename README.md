@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 
 
-sou estudante de Ciência da Computação na Uniamérica Descomplica e busco por oportunidades no ramo de programação
+Sou estudante de Ciência da Computação na Uniamérica Descomplica e busco por oportunidades no ramo de programação
 <br>
 <br>
 <br>
